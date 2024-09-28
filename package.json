@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Haremos un pequeño servidor con informaqcion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Sandra Martin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
